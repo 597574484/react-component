@@ -1,0 +1,27 @@
+.page-wrap ul{
+    list-style-type: none;
+    text-align: center;
+    line-height: 35px;
+    height:35px;
+}
+.page-wrap li{
+    font-family: STHeitiSC-Light;
+    display: inline-block;
+    font-size: 16px;
+    color: #2A78D0;
+    text-align: center;
+}
+.page-wrap li a{
+    display: inline-block;
+    margin-right: 5px;
+    box-shadow: 0px 0px 0px 1px #999999;
+    cursor: pointer;
+}
+.page-index{
+    width: 35px;
+    height: 35px;
+}
+.page-wrap .cur-page{
+    box-shadow: 0px 0px 0px 0px #ffffff;
+    cursor: default;
+}
